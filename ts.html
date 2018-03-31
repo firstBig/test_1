@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    </body>
+    <script>
+        var newArr =[1,6,'02','ac',8,2,'01',5," ",3,'10',9,'000f',7,'08',"001",'12'];
+        var yy =[]
+
+        for (var i = 0; i <newArr.length; i++) {
+            // 跳过非数字
+            if(isNaN(newArr[i])){
+                continue;
+            } 
+            // 跳过小于10且字符长度非两位数的数字
+            else if(Number(newArr[i])<10 && String(newArr[i]).length!=2){
+                continue;
+            }
+            // 非以上条件的放进另一个数组中
+            else {
+                yy.push(newArr[i]);
+            }
+        }
+        console.log(yy);
+        // 对返回的新数组再进行排序
+        for (var i = 1; i <yy.length-1; i++) {
+            for(var j =0 ;j< yy.length-i-1; j++){
+                if (Number(yy[j]) > Number(yy[j + 1])) {
+                    temp = yy[j];
+                    yy[j] = yy[j + 1]
+                    yy[j + 1] = temp;
+                }
+            }
+        }
+        console.log(yy);
+    </script>
+</html>
