@@ -1,0 +1,2 @@
+webpackJsonp([86],{BUFI:function(t,r,e){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var n=e("PaWK"),a=e("y708"),u={props:["route"],data:function(){return{url:"/data/query/dynamicdrillingtooldata",arr:a.i}},components:{Lay:n.a},mounted:function(){},methods:{}},o={render:function(){var t=this.$createElement;return(this._self._c||t)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},l=e("C7Lr")(u,o,!1,null,null,null);r.default=l.exports}});
+//# sourceMappingURL=86.f0f179b38dd9ad4e0e47.js.map

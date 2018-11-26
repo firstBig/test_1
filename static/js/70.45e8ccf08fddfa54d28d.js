@@ -1,0 +1,2 @@
+webpackJsonp([70],{MFvu:function(t,r,e){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var n=e("PaWK"),u=e("QqWl"),a={props:["route"],data:function(){return{arr:u.c,url:"/data/query/lithologydata"}},components:{Lay:n.a},mounted:function(){},methods:{}},o={render:function(){var t=this.$createElement;return(this._self._c||t)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},l=e("C7Lr")(a,o,!1,null,null,null);r.default=l.exports}});
+//# sourceMappingURL=70.45e8ccf08fddfa54d28d.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([92],{"qR/p":function(t,r,e){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var n=e("PaWK"),a=e("y708"),u={props:["route"],data:function(){return{url:"/data/query/bitdata",arr:a.b}},components:{Lay:n.a},mounted:function(){},methods:{}},s={render:function(){var t=this.$createElement;return(this._self._c||t)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},o=e("C7Lr")(u,s,!1,null,null,null);r.default=o.exports}});
+//# sourceMappingURL=92.e5d59a54fbef89c4a795.js.map

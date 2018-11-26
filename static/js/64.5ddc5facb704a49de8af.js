@@ -1,0 +1,2 @@
+webpackJsonp([64],{uUXh:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r("PaWK"),u=r("kW4c"),a={props:["route"],data:function(){return{url:"/data/query/completionwellheaddevice",arr:u.e}},components:{Lay:n.a},mounted:function(){},methods:{}},o={render:function(){var e=this.$createElement;return(this._self._c||e)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},l=r("C7Lr")(a,o,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=64.5ddc5facb704a49de8af.js.map

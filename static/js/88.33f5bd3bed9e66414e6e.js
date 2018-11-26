@@ -1,0 +1,2 @@
+webpackJsonp([88],{e5Hv:function(t,r,e){"use strict";Object.defineProperty(r,"__esModule",{value:!0});var n=e("PaWK"),u=e("y708"),a={props:["route"],data:function(){return{url:"/data/query/drillingfluiddata",arr:u.f}},components:{Lay:n.a},mounted:function(){},methods:{}},l={render:function(){var t=this.$createElement;return(this._self._c||t)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},s=e("C7Lr")(a,l,!1,null,null,null);r.default=s.exports}});
+//# sourceMappingURL=88.33f5bd3bed9e66414e6e.js.map

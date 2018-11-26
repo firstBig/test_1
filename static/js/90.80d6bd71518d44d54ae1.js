@@ -1,0 +1,2 @@
+webpackJsonp([90],{uAA9:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=r("PaWK"),a=r("y708"),n={props:["route"],data:function(){return{url:"/data/query/devicefailuredata",arr:a.d}},components:{Lay:u.a},mounted:function(){},methods:{}},s={render:function(){var e=this.$createElement;return(this._self._c||e)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},o=r("C7Lr")(n,s,!1,null,null,null);t.default=o.exports}});
+//# sourceMappingURL=90.80d6bd71518d44d54ae1.js.map

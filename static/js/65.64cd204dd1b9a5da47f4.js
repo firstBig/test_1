@@ -1,0 +1,2 @@
+webpackJsonp([65],{kSCX:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=r("PaWK"),n=r("kW4c"),u={props:["route"],data:function(){return{url:"/data/query/caseassembledata",arr:n.d}},components:{Lay:a.a},mounted:function(){},methods:{}},s={render:function(){var e=this.$createElement;return(this._self._c||e)("Lay",{attrs:{route:this.route,arr:this.arr,url:this.url}})},staticRenderFns:[]},o=r("C7Lr")(u,s,!1,null,null,null);t.default=o.exports}});
+//# sourceMappingURL=65.64cd204dd1b9a5da47f4.js.map
